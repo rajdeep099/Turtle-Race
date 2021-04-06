@@ -10,3 +10,7 @@ An interactive TURTLE RACE game, where players can choose their turtles and then
   2. Choose your turtles before starting the game and ENJOY!!!
 
 ## Images
+![GAME INTERFACE](https://github.com/rajdeep099/Turtle-Race/blob/main/Images/main.png)
+![GAME INTERFACE](https://github.com/rajdeep099/Turtle-Race/blob/main/Images/onMarks.png)
+![GAME INTERFACE](https://github.com/rajdeep099/Turtle-Race/blob/main/Images/getSet.png)
+![GAME INTERFACE](https://github.com/rajdeep099/Turtle-Race/blob/main/Images/results.png)
