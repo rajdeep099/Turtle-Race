@@ -3,6 +3,10 @@ import time
 import random
 
 
+def newChange():
+    pass
+
+
 # dirt
 def dirt():
     turtle.hideturtle()
