@@ -6,3 +6,7 @@ more text added
 444
 555
 666
+777
+888
+big story not completed
+big story is completed
